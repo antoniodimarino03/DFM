@@ -12,6 +12,8 @@ Matlab and R functions to estimate the dynamic factor models and to perform fore
 10
 11
 
-The codes for were written by Matteo Barigozzi, Mario Forni, Roman Liška, and Matteo
+The codes for 1 2 3 6 were written by Matteo Barigozzi, Mario Forni, Roman Liška, and Matteo
 Luciani, were commented and debugged by Matteo Barigozzi and are available from
 www.barigozzi.eu/codes.html.
+
+The codes fore 4 5 7 8 ...
