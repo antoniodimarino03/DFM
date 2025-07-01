@@ -21,3 +21,5 @@ Codes 4, 7, 8 have been taken by the codes associated with FRED-QD at the folllo
 Codes 2, 3, 7 have been slightly modified by the undersigned. 
 Codes 9, 10, 11, 12, 14 have been written by the undersigned. These scripts incorporates elements generated or refined using AI tools.
 Code 9 has been adpated to a frequency domain approach by the undersigned from code 8.
+
+Antonio Di Marino
